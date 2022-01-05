@@ -1,0 +1,8 @@
+{
+    "clientID": "aRm3f9btrfJTQDnt3rBIZr59Nrwa",
+    "serverOrigin": "https://api.asgardeo.io/t/thivi",
+    "signInRedirectURL": "https://localhost:5000",
+    "signOutRedirectURL": "https://localhost:5000",
+    "scope": ["openid", "profile"],
+    "resourceServerURLs": ["https://cw-demo.azure-api.net"]
+}
